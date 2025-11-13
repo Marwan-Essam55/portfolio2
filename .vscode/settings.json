@@ -1,0 +1,4 @@
+{
+    "npm.enableRunFromFolder": false,
+    "code-runner.showRunCommandInExplorerContextMenu": true
+}
